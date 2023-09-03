@@ -33,4 +33,4 @@ Future Enhancements: In the future, this script could be enhanced to perform mor
 Scaling Automation: We can extend this project by automating the process of sending messages to multiple LinkedIn profiles, improving its efficiency for networking and outreach purposes.
 
 Conclusion: 
-This project serves as a practical example of my skills in web automation and API integration. It highlights my ability to create efficient solutions for common tasks using scripting and technology. If you have any questions or would like to see a live demonstration, please feel free to ask.
+This project serves as a practical example of my skills in web automation and API integration. It highlights my ability to create efficient solutions for common tasks using scripting and technology. 
